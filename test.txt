@@ -1,7 +1,5 @@
 1st line nigga
 2nd line nigga
-<<<<<<< HEAD
 
 adding 3rd blackassnigga
-=======
->>>>>>> 1dac0134f2233f186093c2af845961ce4a02cd16
+
